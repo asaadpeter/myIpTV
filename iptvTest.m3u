@@ -24,6 +24,6 @@ rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
 #EXTINF:0, tvg-id="" tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" tvg-name="Al Karma TV AU"  group-title="Arabic",Al Karma TV AU www.alkarmatv.com
 rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
 
-#EXTINF:0, tvg-id="" tvg-logo="https://dyn1.heritagestatic.com/lf?set=path%5B9%2F8%2F1%2F981873%5D&call=url%5Bfile%3Aproduct.chain%5D" tvg-name="Al Karma TV ME"  group-title="Arabic",Al Karma TV ME www.alkarmatv.com
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Scrooge_McDuck.png/220px-Scrooge_McDuck.png" tvg-name="Al Karma TV ME"  group-title="Arabic",Al Karma TV ME www.alkarmatv.com
 https://www.youtube.com/watch?v=BLHATepF8fY
 
