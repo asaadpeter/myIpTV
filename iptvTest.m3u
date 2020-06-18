@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Rotana Classic
+http://178.239.61.168:5445/play/a04f
+
 #EXTINF:0, tvg-id="" tvg-logo="https://alhorreya.org/images/alhorreya-logo-loading.png" tvg-name="alhorreya"  group-title="Arabic", Al Horreya
 \\DESKTOP-NQ0AJDH\Users\asaad\Documents\MyWebApplication\ArabicMovies\1\Movie.MKV
 
