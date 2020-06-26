@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Classic AR" tvg-logo="https://banner2.cleanpng.com/20180804/aqq/kisspng-rotana-cinema-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-rotana-records-film-tel-rotana-movies-online-5b65b3b42e6998.5691078715333917961901.jpg" group-title="Arabic Tv",Rotana Testing
 https://d2-sn---uxaxjvhxbt2u-j5pel.aa4l.net/files/movies/mohamedhussein/mohamedhussein.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic AR" tvg-logo="" group-title="Arabic Tv",Rotana Classic AR
-https://youtu.be/mACQvEdeusE
+#EXTINF:-1 tvg-id="" tvg-name="Testing" tvg-logo="https://cjmart.jp/en/upload/save_image/0126_190824_mp4otl_y_3.jpg" group-title="Testing",Testing Channel 1
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="https://alhorreya.org/images/alhorreya-logo-loading.png" tvg-name="alhorreya"  group-title="Arabic", Al Horreya
 https://d2-sn---uxaxjvhxbt2u-j5pel.aa4l.net/files/movies/mohamedhussein/mohamedhussein.mp4
