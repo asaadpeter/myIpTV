@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="live" tvg-name="coronavirus pandemic" tvg-logo="https://ps.w.org/coronavirus-covid-19/assets/icon-256x256.jpg" group-title="NEWS",coronavirus pandemic
-http://nasaiptv.com:8000/peterxasaad/p726952a/99710
+ttp://media.smc-host.com:1935/alhorreya.tv/smil:alhorreya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Classic AR" tvg-logo="https://banner2.cleanpng.com/20180804/aqq/kisspng-rotana-cinema-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-rotana-records-film-tel-rotana-movies-online-5b65b3b42e6998.5691078715333917961901.jpg" group-title="Arabic Tv",Rotana Testing
 https://d2-sn---uxaxjvhxbt2u-j5pel.aa4l.net/files/movies/mohamedhussein/mohamedhussein.mp4
