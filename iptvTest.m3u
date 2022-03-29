@@ -4,6 +4,11 @@
 #EXTGRP: MBC
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 
+#PLAYLIST:Playlist1
+#EXTINF:-1 tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png", Rotana Cinema
+#EXTGRP: Rotana
+http://embedar.gq/fr.php/https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+
 #EXTINF:0,My- MBC Masr2 HD
 #EXTVLCOPT:network-caching=1000
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
