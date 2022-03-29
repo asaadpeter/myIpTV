@@ -9,7 +9,7 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 
 #EXTINF:-1 tvg-id="" status="online",Toonami Aftermath Movies (540p)
-https://player.vimeo.com/video/692658882?h=ae345984e3
+https://cdn-chashed-velbo-s12-aqg.yautube.cam/hls/ftg4zqbipvh473xqlsiuaaryhblv3jnzlqvn6dtx6xq3a3v73ipjikgfs2dq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg" status="online",Aghapy TV (1080p) [Not 24/7]
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlGhad.eg" status="error",Al Ghad (720p) [Not 24/7]
