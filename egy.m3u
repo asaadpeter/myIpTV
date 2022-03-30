@@ -23,7 +23,7 @@ http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
 #EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://web-directorys.com/wp-content/uploads/2020/09/CBS-Sports.png",CBS Sports HQ
 #EXTGRP:Sports
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/aef327d0-1d88-4a16-8d05-90817c07cb4f:MRN2/variant/d064ccdcdc5337370ea268ff8e389280/bandwidth/2199524.m3u8
+plugin://plugin.video.youtube/play/?v=BThdSq8jwjc
 
 #EXTINF:-1 tvg-name="Turning Red" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_turningred_v2_21513_76ff27f6.png",Turning Red
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BThdSq8jwjc
