@@ -22,8 +22,9 @@ http://embedar.gq/fr.php/https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v
 http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
 #EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://web-directorys.com/wp-content/uploads/2020/09/CBS-Sports.png",CBS Sports HQ
-#EXTGRP:Sports
-plugin://plugin.video.youtube/play/?v=BThdSq8jwjc
+#EXTGRP:أفلام دينية
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xMWNg5nlNOA
 
 #EXTINF:-1 tvg-name="Turning Red" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_turningred_v2_21513_76ff27f6.png",Turning Red
+#EXTGRP:أفلام دينية
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BThdSq8jwjc
