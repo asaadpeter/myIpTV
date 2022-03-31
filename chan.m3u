@@ -32,6 +32,16 @@ https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w851424
 #EXTGRP:قنوات دينية مسيحية
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/chunklist_w1235639248_b896000_slar_t64SEQ=.m3u8
 
+#EXTINF:-1 tvg-name="Charity TV Lebanon" tvg-logo="http://fomny.com/Video-2/Lebanon/Tv-Charity/logo.gif",Charity TV Lebanon
+#EXTGRP:قنوات دينية مسيحية
+http://185.105.4.236:1935/live/ngrp:livestream_all/chunklist_w1808627954_b478000.m3u8
+
+#EXTINF:-1 tvg-name="SAT7" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Sat7/logo.gif",SAT7
+#EXTGRP:قنوات دينية مسيحية
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_360p/chunks_dvr.m3u8
+
+
+
 
 
 
