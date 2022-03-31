@@ -28,6 +28,12 @@ https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTGRP:قنوات دينية مسيحية
 https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w851424639_b596000_slar_t64U0Q=.m3u8
 
+#EXTINF:-1 tvg-name="Koogi TV" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Koogi/logo.gif",Koogi TV
+#EXTGRP:قنوات دينية مسيحية
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/chunklist_w1235639248_b896000_slar_t64SEQ=.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema
