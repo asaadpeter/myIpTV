@@ -60,6 +60,10 @@ http://rtmp.abnsat.com/hls/arabic.m3u8
 #EXTGRP:قنوات دينية مسيحية
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w97808468_b692000_slar_t64SEQ=.m3u8
 
+#EXTINF:-1 tvg-name="Noursat TV" tvg-logo="http://fomny.com/Video-2/Lebanon/Noursat/logo.gif",Noursat TV
+#EXTGRP:قنوات دينية مسيحية
+https://svs.itworkscdn.net/nour4satlive/livestream/chunks.m3u8
+
 
 
 
