@@ -24,8 +24,9 @@ http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTGRP:قنوات دينية مسيحية
 https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-name="El Fady TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/AlFadyTV.png",El Fady TV
+#EXTGRP:قنوات دينية مسيحية
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w851424639_b596000_slar_t64U0Q=.m3u8
 
 
 
