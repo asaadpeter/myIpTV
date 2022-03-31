@@ -28,6 +28,34 @@ https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema
+#EXTGRP:Rotana
+https://embed.tvksa.com/m3u8/index.m3u8?aHR0cHM6Ly9zaGxzLXJvdGFuYWNpbmVtYS1lZ3ktcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvYzM5YzBlY2JjYmRiNDZlODkwZTkxMTA2Nzc2Mzk3YTgvaW5kZXhfMS5tM3U4
+
+#EXTINF:-1 tvg-name="Rotana Classic" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rotana-classic.png",Rotana Classic
+#EXTGRP:Rotana
+http://embedar.gq/fr.php/https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+
+#EXTINF:-1 tvg-name="Rotana Plus" tvg-logo="https://tv.taghtia.com/assets/channels/rotana.png",Rotana Plus
+#EXTGRP:Rotana
+http://embedar.gq/fr.php/https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC
+#EXTGRP:MBC
+http://embedar.gq/fr.php/https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
+
+#EXTINF:-1 tvg-name="MBC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png",MBC3
+#EXTGRP:MBC
+http://embedar.gq/fr.php/https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+
+#EXTINF:-1 tvg-name="MBC5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC5
+#EXTGRP:MBC
+http://embedar.gq/fr.php/https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
 #EXTINF:-1 tvg-name="MBC Masr" tvg-logo="https://ehegypt.com/wp-content/uploads/2018/01/MBC-Masr.png",MBC Masr
 #EXTGRP:MBC
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
@@ -36,12 +64,26 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
-#EXTINF:-1 tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema
-#EXTGRP:Rotana
-http://embedar.gq/fr.php/https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://tv.taghtia.com/assets/channels/mbc-persia.png",MBC Persia
+#EXTGRP:MBC
+http://embedar.gq/fr.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
+#EXTINF:-1 tvg-name="MBC Iraq" tvg-logo="https://www.itp.net/cloud/2021/08/19/MBC-IRAQ---LOGO.jpg",MBC Iraq
+#EXTGRP:MBC
+http://embedar.gq/fr.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="BEIN Sports Extra" tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg",BEIN Sports Extra
 #EXTGRP:Sports
 http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sports 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNxkXz58fxWFBhAlz5gOclkljnqJWqEL20qFM991DzsNINWHFp-QCdYPbFgQ9i5YmTsLHChUob7DIDbOPFR47ZehWyM2pN4J59FPh-NwAGM7TEqhUrvlS3oxn2eRfIG680hSq9zWCEoT-j6GMiyXT-b6VwhvukEDN4oqS9eNlHofIEoOv_2bx6mISt-g/w1200-h630-p-k-no-nu/ssc%20sport%203.jpg",SSC Sports 3
+#EXTGRP:Sports
+http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
 
 
