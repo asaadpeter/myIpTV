@@ -40,7 +40,9 @@ http://185.105.4.236:1935/live/ngrp:livestream_all/chunklist_w1808627954_b478000
 #EXTGRP:قنوات دينية مسيحية
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_360p/chunks_dvr.m3u8
 
-
+#EXTINF:-1 tvg-name="SAT7 Kids" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Sat7/logo2.gif",SAT7 Kids
+#EXTGRP:قنوات دينية مسيحية
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_360p/chunks_dvr.m3u8
 
 
 
@@ -57,6 +59,8 @@ http://embedar.gq/fr.php/https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4
 #EXTINF:-1 tvg-name="Rotana Plus" tvg-logo="https://tv.taghtia.com/assets/channels/rotana.png",Rotana Plus
 #EXTGRP:Rotana
 http://embedar.gq/fr.php/https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+
+
 
 
 
@@ -88,7 +92,6 @@ http://embedar.gq/fr.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7c
 #EXTINF:-1 tvg-name="MBC Iraq" tvg-logo="https://www.itp.net/cloud/2021/08/19/MBC-IRAQ---LOGO.jpg",MBC Iraq
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-
 
 
 
