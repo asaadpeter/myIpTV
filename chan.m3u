@@ -68,6 +68,14 @@ https://svs.itworkscdn.net/nour4satlive/livestream/chunks.m3u8
 #EXTGRP:قنوات دينية مسيحية
 https://brightstar-arabic.secure.footprint.net/egress/bhandler/brightstar/brightstarArabic/chunklist_b372736.m3u8
 
+#EXTINF:-1 tvg-name="Rock Sat" tvg-logo="http://fomny.com/Video-2/Christ-Arab/The-Rock-Sat/logo.gif",Rock Sat
+#EXTGRP:قنوات دينية مسيحية
+http://media3.smc-host.com:1935/therocksat.com/rocksat.smil/chunklist_w597111130_b1300000_t64SEQ=.m3u8
+
+
+
+
+
 
 
 
