@@ -48,6 +48,14 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_3
 #EXTGRP:قنوات دينية مسيحية
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w1039456693.m3u8
 
+#EXTINF:-1 tvg-name="قناة معجزة Miracle" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Miraclechannel/logo.gif",قناة معجزة Miracle
+#EXTGRP:قنوات دينية مسيحية
+http://miracle_worker-01.stream.boxigy.com/hls/miracle1_high/index.m3u8
+
+#EXTINF:-1 tvg-name="ABN Sat" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Miraclechannel/logo.gif",ABN Sat
+#EXTGRP:قنوات دينية مسيحية
+http://rtmp.abnsat.com/hls/arabic.m3u8
+
 
 
 
