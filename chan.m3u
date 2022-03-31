@@ -139,8 +139,13 @@ http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
 
 
+
+
+
 #EXTINF:-1 tvg-name="CBC" tvg-logo="http://fomny.com/Video-2/Egypt/CBC/logo.gif",CBC
 #EXTGRP:CBC
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GeD9JO-MCaY
 
-
+#EXTINF:-1 tvg-name="CBC Drama" tvg-logo="http://fomny.com/Video-2/Egypt/CBC-Drama/logo.gif",CBC Drama
+#EXTGRP:CBC
+http://185.235.166.99:8080/live/mag00:1A:79:CA:F4:62/cL3RfohbwG/125092.m3u8?token=SxsNBRdRE1kbXFcIUwRXAQIDDQEPDQwHBFUNAAdQBQEEDwZUVwhTW1gaSBMRQxBcAlhmDFIXDgUHUAhYB01BRUNcFzsNXRNZGwxRAVYVThsXXFQAFA8EGBcVUQUXW0EDCQhXV0YVEwZBTAFDDFYOZgdQTwxVUBYOWxBUDRlDDF5vXQAJBVdVQQMaVBNOFQtKExcDC0NZWBgXB1EVRwAXVRIDR1VdCAlBFRoHXhdZFksaFwNHY2YWGBcAQBVQDxBZX1dHXkZUAhYBGkgTC0Q9SwZGTRdTVFlRR0cCQwVDTxJdWB07B1ZfDVxbEFgNWREbWRcIRxoXWVtbDEwORz4TWVQbX0ZWCwRQDBoZ
