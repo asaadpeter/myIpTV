@@ -229,3 +229,7 @@ http://freearabic.zinamedia.net/ar/DMC-Drama/tracks-v1a1/mono.m3u8
 #EXTGRP:Al Fajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 
+
+#EXTINF:-1 tvg-name="Al Masriya Al Oula" tvg-logo="http://fomny.com/Video-2/Arabic/04/Egypt%20TV-one/logo.gif",Al Masriya Al Oula
+#EXTGRP:Egypt
+http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
