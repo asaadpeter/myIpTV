@@ -170,6 +170,10 @@ http://zinachannels.zinamedia.net/ar-s/mbc-2/tracks-v1a1/mono.m3u8
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
+#EXTINF:-1 tvg-name="MBC4" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBC4.png",MBC4
+#EXTGRP:MBC
+http://zinachannels.zinamedia.net/ar-s/mbc-4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="MBC5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC5
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
@@ -182,9 +186,9 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
-#EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://tv.taghtia.com/assets/channels/mbc-persia.png",MBC Persia
+#EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama
 #EXTGRP:MBC
-http://embedar.gq/fr.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 
 #EXTINF:-1 tvg-name="MBC Iraq" tvg-logo="https://www.itp.net/cloud/2021/08/19/MBC-IRAQ---LOGO.jpg",MBC Iraq
 #EXTGRP:MBC
@@ -193,6 +197,11 @@ http://embedar.gq/fr.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea
 #EXTINF:-1 tvg-name="MBC Action" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCAction.png",MBC Action
 #EXTGRP:MBC
 http://zinachannels.zinamedia.net/ar-s/mbc-Action/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://tv.taghtia.com/assets/channels/mbc-persia.png",MBC Persia
+#EXTGRP:MBC
+http://embedar.gq/fr.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
 
 
 
