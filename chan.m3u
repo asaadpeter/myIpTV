@@ -293,17 +293,11 @@ http://192.34.153.36:7777/NileDrama_HD/NileDrama_HD.m3u8?user=sgls540839&session
 #EXTGRP:Nile
 http://192.34.153.36:7777/NileCinema_HD/NileCinema_HD.m3u8?user=sgls540839&session=e6f0c8202401c8e7783a82350962a9a26f276025ad086ebddab9efa8a23c69bacac43661903d92de579a5eb2e5be3bd7
 
-#EXTINF:-1 tvg-name="Nile Family" tvg-logo="http://tvtolive.com/wp-content/uploads/Nile-Family-tvtolive.com_.jpg",Nile Family
-#EXTGRP:Nile
-https://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/liveevent.m3u8
-
 #EXTINF:-1 tvg-name="Nile Live" tvg-logo="https://i.goalzz.com/?i=0011%2Fkoo_nillive.jpg",Nile Live
 #EXTGRP:Nile
 http://192.34.153.36:7777/NileLife_HD/NileLife_High.m3u8?user=sgls540839&session=69e96418090f2094fb0c3a165b3bcef346f3ac0c55b2d3f4cd8e347ae5b0b73e140b148cb6ec0d91
 
-#EXTINF:-1 tvg-name="Nile Sport" tvg-logo="https://w7.pngwing.com/pngs/945/175/png-transparent-egypt-nile-sport-al-nile-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%86%D9%8A%D9%84-egypt.png",Nile Sport
-#EXTGRP:Nile
-https://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/liveevent.m3u8
+
 
 
 
