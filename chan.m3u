@@ -72,6 +72,18 @@ https://brightstar-arabic.secure.footprint.net/egress/bhandler/brightstar/bright
 #EXTGRP:قنوات دينية مسيحية
 http://media3.smc-host.com:1935/therocksat.com/rocksat.smil/chunklist_w597111130_b1300000_t64SEQ=.m3u8
 
+#EXTINF:-1 tvg-name="Elbeshara TV" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Albishara/logo.gif",Elbeshara TV
+#EXTGRP:قنوات دينية مسيحية
+https://5aafcc5de91f1.streamlock.net/elbesharagtv.com/gtv2/chunklist_w623737430.m3u8
+
+#EXTINF:-1 tvg-name="Alkalema TV" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Alkalema-TV/logo.gif",Alkalema TV
+#EXTGRP:قنوات دينية مسيحية
+https://ca1.buximedia.com/coa/alkalema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Alkeraza TV" tvg-logo="http://fomny.com/Video-2/Christ-Arab/Alkerazatv/logo.gif",Alkeraza TV
+#EXTGRP:قنوات دينية مسيحية
+https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/chunklist_w768761824_b1300000_t64U0Q=.m3u8
+
 
 
 
