@@ -287,4 +287,23 @@ http://192.34.153.36:7777/NileComedy_HD/NileComedy_HD.m3u8?user=sgls540839&sessi
 
 #EXTINF:-1 tvg-name="Nile Drama" tvg-logo="https://sc.dish.com/shared/images/station-logos/NILE.png",Nile Drama
 #EXTGRP:Nile
-http://192.34.153.36:7777/NileDrama_HD/NileDrama_HD.m3u8?user=sgls540839&session=706221a9c08050d98675e6707d806c9a7f46e698bd1f8106a8ca4e727a95abf8b5750b9d563d903bde2a9a15d4e21705&hlsid=HTTP_ID_199&starttime=20220331T163728.421429
+http://192.34.153.36:7777/NileDrama_HD/NileDrama_HD.m3u8?user=sgls540839&session=706221a9c08050d98675e6707d806c9a7f46e698bd1f8106a8ca4e727a95abf8b5750b9d563d903bde2a9a15d4e21705
+
+#EXTINF:-1 tvg-name="Nile Cinema" tvg-logo="https://media.elcinema.com/tvguide/1157_1.png",Nile Cinema
+#EXTGRP:Nile
+http://192.34.153.36:7777/NileCinema_HD/NileCinema_HD.m3u8?user=sgls540839&session=e6f0c8202401c8e7783a82350962a9a26f276025ad086ebddab9efa8a23c69bacac43661903d92de579a5eb2e5be3bd7
+
+#EXTINF:-1 tvg-name="Nile Family" tvg-logo="http://tvtolive.com/wp-content/uploads/Nile-Family-tvtolive.com_.jpg",Nile Family
+#EXTGRP:Nile
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/liveevent.m3u8
+
+#EXTINF:-1 tvg-name="Nile Live" tvg-logo="https://i.goalzz.com/?i=0011%2Fkoo_nillive.jpg",Nile Live
+#EXTGRP:Nile
+http://192.34.153.36:7777/NileLife_HD/NileLife_High.m3u8?user=sgls540839&session=69e96418090f2094fb0c3a165b3bcef346f3ac0c55b2d3f4cd8e347ae5b0b73e140b148cb6ec0d91
+
+
+
+
+
+
+
