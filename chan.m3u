@@ -225,3 +225,7 @@ http://192.34.153.36:7777/AlNaharDrama_HD/AlNaharDrama_High.m3u8?user=sgls540839
 #EXTGRP:DMC
 http://freearabic.zinamedia.net/ar/DMC-Drama/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="Al Fajer" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ps-alfajer-tv-1195.jpg",Al Fajer
+#EXTGRP:Movies
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+
