@@ -162,6 +162,10 @@ https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
 
+#EXTINF:-1 tvg-name="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png",MBC2
+#EXTGRP:MBC
+http://zinachannels.zinamedia.net/ar-s/mbc-2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="MBC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png",MBC3
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
