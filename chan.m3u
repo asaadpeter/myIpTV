@@ -281,5 +281,7 @@ http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 tvg-name="Nile Comedy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2021/02/Nile-Comedy200.png",Nile Comedy
+#EXTGRP:Nile
+http://192.34.153.36:7777/NileComedy_HD/NileComedy_HD.m3u8?user=sgls540839&session=c87c8d1fc96101e8e6b69008f7c2be6ae092b1f92f5271f9dab9efa8a23c69bacac43661903d92de579a5eb2e5be3bd7
 
