@@ -203,12 +203,15 @@ http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
 
 #EXTINF:-1 tvg-name="CBC" tvg-logo="http://fomny.com/Video-2/Egypt/CBC/logo.gif",CBC
 #EXTGRP:CBC
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GeD9JO-MCaY
+http://freearabic.zinamedia.net/ar/CBC-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="CBC Drama" tvg-logo="http://fomny.com/Video-2/Egypt/CBC-Drama/logo.gif",CBC Drama
 #EXTGRP:CBC
 http://185.235.166.99:8080/live/mag00:1A:79:CA:F4:62/cL3RfohbwG/125092.m3u8?token=SxsNBRdRE1kbXFcIUwRXAQIDDQEPDQwHBFUNAAdQBQEEDwZUVwhTW1gaSBMRQxBcAlhmDFIXDgUHUAhYB01BRUNcFzsNXRNZGwxRAVYVThsXXFQAFA8EGBcVUQUXW0EDCQhXV0YVEwZBTAFDDFYOZgdQTwxVUBYOWxBUDRlDDF5vXQAJBVdVQQMaVBNOFQtKExcDC0NZWBgXB1EVRwAXVRIDR1VdCAlBFRoHXhdZFksaFwNHY2YWGBcAQBVQDxBZX1dHXkZUAhYBGkgTC0Q9SwZGTRdTVFlRR0cCQwVDTxJdWB07B1ZfDVxbEFgNWREbWRcIRxoXWVtbDEwORz4TWVQbX0ZWCwRQDBoZ
 
+#EXTINF:-1 tvg-name="CBC Sofra" tvg-logo="http://fomny.com/Video-2/Egypt/CBC-Drama/logo.gif",CBC Sofra
+#EXTGRP:CBC
+http://freearabic.zinamedia.net/ar/CBC-Sofra/tracks-v1a1/mono.m3u8
 
 
 
@@ -242,5 +245,5 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Al Masriya Al Oula" tvg-logo="http://fomny.com/Video-2/Arabic/04/Egypt%20TV-one/logo.gif",Al Masriya Al Oula
-#EXTGRP:USA
-http://hls.123tv.live/ch/PMbv6aYL3oJOQg-9tt4lsw/1648846201/abc.m3u8
+#EXTGRP:Egypt
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8?nimblesessionid=65597349&v=1680104694
