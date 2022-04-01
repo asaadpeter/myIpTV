@@ -285,3 +285,6 @@ http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
 #EXTGRP:Nile
 http://192.34.153.36:7777/NileComedy_HD/NileComedy_HD.m3u8?user=sgls540839&session=c87c8d1fc96101e8e6b69008f7c2be6ae092b1f92f5271f9dab9efa8a23c69bacac43661903d92de579a5eb2e5be3bd7
 
+#EXTINF:-1 tvg-name="Nile Drama" tvg-logo="https://sc.dish.com/shared/images/station-logos/NILE.png",Nile Drama
+#EXTGRP:Nile
+http://192.34.153.36:7777/NileDrama_HD/NileDrama_HD.m3u8?user=sgls540839&session=706221a9c08050d98675e6707d806c9a7f46e698bd1f8106a8ca4e727a95abf8b5750b9d563d903bde2a9a15d4e21705&hlsid=HTTP_ID_199&starttime=20220331T163728.421429
