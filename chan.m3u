@@ -213,13 +213,19 @@ http://zinachannels.zinamedia.net/ar-s/mbc-Max/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BEIN Sports Extra" tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg",BEIN Sports Extra
-#EXTGRP:Sports
-http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
 
 #EXTINF:-1 tvg-name="SSC Sports 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNxkXz58fxWFBhAlz5gOclkljnqJWqEL20qFM991DzsNINWHFp-QCdYPbFgQ9i5YmTsLHChUob7DIDbOPFR47ZehWyM2pN4J59FPh-NwAGM7TEqhUrvlS3oxn2eRfIG680hSq9zWCEoT-j6GMiyXT-b6VwhvukEDN4oqS9eNlHofIEoOv_2bx6mISt-g/w1200-h630-p-k-no-nu/ssc%20sport%203.jpg",SSC Sports 3
 #EXTGRP:Sports
 http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN Sports Extra" tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg",BEIN Sports Extra
+#EXTGRP:Sports
+http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
+#EXTINF:-1 tvg-name="BEIN Sports News" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/04/BEInSportsNews-2.png",BEIN Sports News
+#EXTGRP:Sports
+https://live-ak.vimeocdn.com/exp=1648848817~acl=%2Fc590fb20-e5c7-4571-9b37-8681deb761c0%2F%2A~hmac=8cf9bb7706c62bf22001a35078a522705600c24980d97af38aefff38cff7d12c/c590fb20-e5c7-4571-9b37-8681deb761c0/chunklist_b3256000.m3u8?max_segments=10
 
 
 
