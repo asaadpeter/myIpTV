@@ -147,6 +147,11 @@ http://embedar.gq/fr.php/https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4
 #EXTGRP:Rotana
 http://embedar.gq/fr.php/https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 
+#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png",Rotana kids
+#EXTGRP:Rotana
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1648833779&e=1648920179&cf=1648920179&h=07409f69df8826dba83d2f5f2b5cb7f6
+
+
 
 
 
@@ -250,7 +255,7 @@ http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Al Watan TV" tvg-logo="https://mhtwyat.com/wp-content/uploads/2020/02/2266-630x300.jpg",Al Watan TV
 #EXTGRP:Egypt
-https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8?nimblesessionid=65597349&v=1680104694
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8?nimblesessionid=65604548
 
 
 
