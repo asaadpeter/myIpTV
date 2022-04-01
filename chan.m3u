@@ -198,6 +198,9 @@ http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-name="CBC" tvg-logo="http://fomny.com/Video-2/Egypt/CBC/logo.gif",CBC
 #EXTGRP:CBC
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GeD9JO-MCaY
@@ -205,3 +208,20 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 tvg-name="CBC Drama" tvg-logo="http://fomny.com/Video-2/Egypt/CBC-Drama/logo.gif",CBC Drama
 #EXTGRP:CBC
 http://185.235.166.99:8080/live/mag00:1A:79:CA:F4:62/cL3RfohbwG/125092.m3u8?token=SxsNBRdRE1kbXFcIUwRXAQIDDQEPDQwHBFUNAAdQBQEEDwZUVwhTW1gaSBMRQxBcAlhmDFIXDgUHUAhYB01BRUNcFzsNXRNZGwxRAVYVThsXXFQAFA8EGBcVUQUXW0EDCQhXV0YVEwZBTAFDDFYOZgdQTwxVUBYOWxBUDRlDDF5vXQAJBVdVQQMaVBNOFQtKExcDC0NZWBgXB1EVRwAXVRIDR1VdCAlBFRoHXhdZFksaFwNHY2YWGBcAQBVQDxBZX1dHXkZUAhYBGkgTC0Q9SwZGTRdTVFlRR0cCQwVDTxJdWB07B1ZfDVxbEFgNWREbWRcIRxoXWVtbDEwORz4TWVQbX0ZWCwRQDBoZ
+
+
+
+
+
+#EXTINF:-1 tvg-name="Alnahar Drama" tvg-logo="http://fomny.com/Video-2/Egypt/Al-Nahar/logo3.gif",Alnahar Drama
+#EXTGRP:Alnahar
+http://192.34.153.36:7777/AlNaharDrama_HD/AlNaharDrama_High.m3u8?user=sgls540839&session=00b7319636e5c7d054ade64605c0ca69c721b1a8e1ece56f54237fcd9b93a9d4994c0d08dc622140384e97fef14771cc
+
+
+
+
+
+#EXTINF:-1 tvg-name="DMC Drama" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dmc_drama.jpg",DMC Drama
+#EXTGRP:DMC
+http://freearabic.zinamedia.net/ar/DMC-Drama/tracks-v1a1/mono.m3u8
+
