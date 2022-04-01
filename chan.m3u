@@ -239,13 +239,15 @@ http://192.34.153.36:7777/AlNaharDrama_HD/AlNaharDrama_High.m3u8?user=sgls540839
 
 
 
+#EXTINF:-1 tvg-name="DMC Live" tvg-logo="https://photos.live-tv-channels.org/tv-logo/eg-dmc-8086.jpg",DMC Live
+#EXTGRP:DMC
+http://freearabic.zinamedia.net/ar/DMC-TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="DMC Drama" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dmc_drama.jpg",DMC Drama
 #EXTGRP:DMC
 http://freearabic.zinamedia.net/ar/DMC-Drama/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="DMC Live" tvg-logo="https://photos.live-tv-channels.org/tv-logo/eg-dmc-8086.jpg",DMC Live
-#EXTGRP:DMC
-http://freearabic.zinamedia.net/ar/DMC-TV/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -253,6 +255,8 @@ http://freearabic.zinamedia.net/ar/DMC-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Al Fajer 2" tvg-logo="https://4.bp.blogspot.com/-PjTABZzGffM/XVxj_S8zZrI/AAAAAAAAA-U/ug5snmTrH-MeABvi6YdF3iCnT5wG1IAVgCLcBGAs/w1200-h630-p-k-no-nu/1901a861d-1_1%2B%25281%2529.jpg",Al Fajer 2
 #EXTGRP:Al Fajer
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="Al Masriya Al Oula" tvg-logo="http://fomny.com/Video-2/Arabic/04/Egypt%20TV-one/logo.gif",Al Masriya Al Oula
