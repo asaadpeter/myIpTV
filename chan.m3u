@@ -84,6 +84,50 @@ https://ca1.buximedia.com/coa/alkalema/tracks-v1a1/mono.m3u8
 #EXTGRP:قنوات دينية مسيحية
 https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/chunklist_w768761824_b1300000_t64U0Q=.m3u8
 
+#EXTINF:-1 tvg-name="Kingdom SAT" tvg-logo="https://kingdomsat.com/wp-content/uploads/2019/10/KSAT-logo-2.png",Kingdom SAT
+#EXTGRP:قنوات دينية مسيحية
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/kingdomsatpublish/kingdomsat/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Al Karma TV NA" tvg-logo="https://alkarmatv.com/wp-content/uploads/2020/11/Logo-NA-1024x576-1-150x150.png",Al Karma TV NA
+#EXTGRP:قنوات دينية مسيحية
+https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w296602399_b1628000_slar.m3u8
+
+#EXTINF:-1 tvg-name="Al Karma TV ME" tvg-logo="https://alkarmatv.com/wp-content/uploads/2020/11/Logo-ME-1024x576-1-150x150.png",Al Karma TV ME
+#EXTGRP:قنوات دينية مسيحية
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaME1.smil/chunklist_w1171039337_b1628000_slar.m3u8
+
+#EXTINF:-1 tvg-name="Al Karma TV AU" tvg-logo="https://alkarmatv.com/wp-content/uploads/2020/11/Logo-AU-1024x576-1-150x150.png",Al Karma TV AU
+#EXTGRP:قنوات دينية مسيحية
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaAU.smil/chunklist_w1629867907_b1628000_slar.m3u8
+
+#EXTINF:-1 tvg-name="Al Karma TV Talmaza" tvg-logo="https://alkarmatv.com/wp-content/uploads/2020/11/Logo-Talmaza-1024x576-1-150x150.png",Al Karma TV Talmaza
+#EXTGRP:قنوات دينية مسيحية
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME2.smil/chunklist_w1018588298_b1628000_slar.m3u8
+
+#EXTINF:-1 tvg-name="Al Karma TV Family" tvg-logo="https://alkarmatv.com/wp-content/uploads/2020/11/Logo-Family-1024x576-1-150x150.png",Al Karma TV Family
+#EXTGRP:قنوات دينية مسيحية
+https://597f64b67707a.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w2112608269_b1628000_slar.m3u8
+
+#EXTINF:-1 tvg-name="Al Karma TV US" tvg-logo="https://alkarmatv.com/wp-content/uploads/2020/11/Logo-US-1024x576-1-150x150.png",Al Karma TV US
+#EXTGRP:قنوات دينية مسيحية
+https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaUS.smil/chunklist_w1506202665_b1628000_slar.m3u8
+
+#EXTINF:-1 tvg-name="Al Karma TV Praise" tvg-logo="https://alkarmatv.com/wp-content/uploads/2020/11/Logo-Praise-1024x576-1-150x150.png",Al Karma TV Praise
+#EXTGRP:قنوات دينية مسيحية
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaPA.smil/chunklist_w492883789_b1628000_slar.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
