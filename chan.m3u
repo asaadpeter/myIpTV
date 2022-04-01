@@ -190,7 +190,9 @@ http://embedar.gq/fr.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7c
 #EXTGRP:MBC
 http://embedar.gq/fr.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
-
+#EXTINF:-1 tvg-name="MBC Action" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCAction.png",MBC Action
+#EXTGRP:MBC
+http://zinachannels.zinamedia.net/ar-s/mbc-Action/tracks-v1a1/mono.m3u8
 
 
 
