@@ -213,6 +213,10 @@ http://185.235.166.99:8080/live/mag00:1A:79:CA:F4:62/cL3RfohbwG/125092.m3u8?toke
 #EXTGRP:CBC
 http://freearabic.zinamedia.net/ar/CBC-Sofra/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="CBC Extra" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/28c10f79319881.Y3JvcCw1MTAsMzk5LDE5NjcsNjI2Mg.jpg",CBC Extra
+#EXTGRP:CBC
+http://185.235.166.99:8080/live/mag00:1A:79:CA:F4:62/cL3RfohbwG/125093.m3u8?token=SxsNBRdRE1kbDVFXBAFSWFVRCVIHBwQFUAMJUQNSUQgGWF0ABQwBBgAaSBMRQxBcAlhmDFIXDgUHUAhYBk1BRUNcFzsNXRNZGwxRAVYVThsXXFQAFA8EGBcVUQUXW0ECBABWUEYVEwZBTAFDDFYOZgdQTwxVUBYOWxBUDRlDDF5vXQAJBVdVQQMaVBNOFQtKExcDC0NZWBgXB1EVRwAXVRIDR1VXCQZBFRoHXhdZFksaFwNHY2YWGBcAQBVQDxBZX1dHXkZUAhYBGkgTC0Q9SwZGTRdTVFlRR0cCQwVDTxJdWB07B1ZfDVxbEFgNWREbWRcIRxoXWVtbDEwORz4TWVQbX0ZWCwRXABoZ
+
 
 
 
@@ -244,6 +248,6 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTGRP:Egypt
 http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Al Masriya Al Oula" tvg-logo="http://fomny.com/Video-2/Arabic/04/Egypt%20TV-one/logo.gif",Al Masriya Al Oula
+#EXTINF:-1 tvg-name="Al Watan TV" tvg-logo="https://mhtwyat.com/wp-content/uploads/2020/02/2266-630x300.jpg",Al Watan TV
 #EXTGRP:Egypt
 https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8?nimblesessionid=65597349&v=1680104694
