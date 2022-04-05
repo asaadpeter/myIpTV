@@ -314,6 +314,27 @@ http://192.34.153.36:7777/NileLife_HD/NileLife_High.m3u8?user=sgls540839&session
 
 
 
+#EXTINF:-1 tvg-name="BEIN Sports 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png",BEIN Sports 1
+#EXTGRP:BEIN
+http://stariptv.org:8080/basma2022/123456/15721
 
+#EXTINF:-1 tvg-name="BEIN Sports 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png",BEIN Sports 1
+#EXTGRP:BEIN
+http://stariptv.org:8080/basma2022/123456/15722
 
+#EXTINF:-1 tvg-name="BEIN Sports 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png",BEIN Sports 1
+#EXTGRP:BEIN
+http://stariptv.org:8080/basma2022/123456/2762
+
+#EXTINF:-1 tvg-name="BEIN Sports 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png",BEIN Sports 1
+#EXTGRP:BEIN
+http://stariptv.org:8080/basma2022/123456/2763
+
+#EXTINF:-1 tvg-name="BEIN Sports 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png",BEIN Sports 1
+#EXTGRP:BEIN
+http://stariptv.org:8080/basma2022/123456/2766
+
+#EXTINF:-1 tvg-name="BEIN Sports 1" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png",BEIN Sports 1
+#EXTGRP:BEIN
+http://stariptv.org:8080/basma2022/123456/132027
 
