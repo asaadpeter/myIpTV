@@ -163,7 +163,11 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC
 #EXTGRP:MBC
-http://embedar.gq/fr.php/https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/640px-Mbc1logo.png",MBC USA
+#EXTGRP:MBC
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png",MBC2
 #EXTGRP:MBC
@@ -171,7 +175,15 @@ http://zinachannels.zinamedia.net/ar-s/mbc-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="MBC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png",MBC3
 #EXTGRP:MBC
-http://embedar.gq/fr.php/https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC3 AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png",MBC3 AE
+#EXTGRP:MBC
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC3 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png",MBC3 USA
+#EXTGRP:MBC
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC4" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBC4.png",MBC4
 #EXTGRP:MBC
@@ -179,27 +191,35 @@ http://zinachannels.zinamedia.net/ar-s/mbc-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="MBC5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC5
 #EXTGRP:MBC
-http://embedar.gq/fr.php/https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Masr" tvg-logo="https://ehegypt.com/wp-content/uploads/2018/01/MBC-Masr.png",MBC Masr
 #EXTGRP:MBC
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC Masr USA" tvg-logo="https://ehegypt.com/wp-content/uploads/2018/01/MBC-Masr.png",MBC Masr USA
+#EXTGRP:MBC
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Masr2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg",MBC Masr2
 #EXTGRP:MBC
-http://embedar.gq/fr.php/https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama
 #EXTGRP:MBC
-https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC Drama USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama USA
+#EXTGRP:MBC
+https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Drama Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png",MBC Drama Plus
 #EXTGRP:MBC
-https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Iraq" tvg-logo="https://www.itp.net/cloud/2021/08/19/MBC-IRAQ---LOGO.jpg",MBC Iraq
 #EXTGRP:MBC
-http://embedar.gq/fr.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Action" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCAction.png",MBC Action
 #EXTGRP:MBC
@@ -207,7 +227,7 @@ http://zinachannels.zinamedia.net/ar-s/mbc-Action/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://tv.taghtia.com/assets/channels/mbc-persia.png",MBC Persia
 #EXTGRP:MBC
-http://embedar.gq/fr.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png",MBC Max
 #EXTGRP:MBC
