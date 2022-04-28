@@ -249,6 +249,10 @@ http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
 #EXTGRP:Sports
 https://2201.janjua.pw:8088/adfree/bedfbein11111_1111nnn/playlist.m3u8?id=107241&pk=5b468d9f58cb9c7478254c0a65b8b58ef701ace1c834a584bcd8a32f8ee29f41
 
+#EXTINF:-1 tvg-name="BEIN Sports 1 Premium" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png",BEIN Sports 1 Premium
+#EXTGRP:Sports
+https://qwqw1-usea.streaming.media.azure.net/c7844f29-5567-4f21-b34c-4694e58ac834/output-20220328-200229-manifest.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-cmaf)
+
 #EXTINF:-1 tvg-name="BEIN Sports 1 Premium" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",BEIN Sports 1 Premium
 #EXTGRP:Sports
 https://2204lw.janjua.pw:8088/adfree/bedfbein11111_1111pppp/playlist.m3u8?vidictid=190837458866&id=107237&pk=5b468d9f58cb9c7478254c0a65b8b58ef701ace1c834a584bcd8a32f8ee29f41
