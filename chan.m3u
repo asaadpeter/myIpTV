@@ -261,9 +261,13 @@ https://2204lw.janjua.pw:8088/adfree/bedfbein11111_1111pppp/playlist.m3u8?vidict
 #EXTGRP:Sports
 http://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
-#EXTINF:-1 tvg-name="BEIN Sports News" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/04/BEInSportsNews-2.png",BEIN Sports News
+#EXTINF:-1 tvg-name="BEIN 1" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/04/BEInSportsNews-2.png",BEIN 1
 #EXTGRP:Sports
 https://live-ak.vimeocdn.com/exp=1648848817~acl=%2Fc590fb20-e5c7-4571-9b37-8681deb761c0%2F%2A~hmac=8cf9bb7706c62bf22001a35078a522705600c24980d97af38aefff38cff7d12c/c590fb20-e5c7-4571-9b37-8681deb761c0/chunklist_b3256000.m3u8?max_segments=10
+
+#EXTINF:-1 tvg-name="OD Sports" tvg-logo="http://www.al-tagheerpress.com/images/news/04-01-21-4274-.jpg",OD Sports
+#EXTGRP:Sports
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 
 
@@ -487,3 +491,4 @@ http://stariptv.org:8080/basma2022/123456/22186
 #EXTINF:-1 tvg-name="من اجل زيكو" tvg-logo="https://mycima.bid:2096/wp-content/uploads/2022/01/%D9%81%D9%8A%D9%84%D9%85-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%B2%D9%8A%D9%83%D9%88-2022.jpg",من اجل زيكو
 #EXTGRP:Movies
 http://egyptiankingiptv.ddns.net/ui/1.0.99.187766/:9999/disk/DLNA-PNAVC_MP4_HP_HD_AAC-OP01-FLAGS01700000/O0$3$28I266.mp4
+http://10.28.146.77:9999/
