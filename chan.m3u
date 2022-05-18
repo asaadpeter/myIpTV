@@ -495,4 +495,4 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
 
 #EXTINF:-1 tvg-name="3eeshAlAanTV" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png",3eeshAlAanTV
 #EXTGRP:Test
-http://10.28.146.77:9999/disk/DLNA-PNAVC_MP4_HP_HD_AAC-OP01-FLAGS01700000/O0$3$28I266.mp4
+http://100.36.92.246:9999/disk/DLNA-PNAVC_MP4_HP_HD_AAC-OP01-FLAGS01700000/O0$3$28I266.mp4
