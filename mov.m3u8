@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-name="من اجل زيكو" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/a/af/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D9%85%D9%86_%D8%A3%D8%AC%D9%84_%D8%B2%D9%8A%D9%83%D9%88.jpg",من اجل زيكو
 #EXTGRP:Comedy2022
-ftp://test:123456@100.36.78.99/Movies/M1.mp4
+ftp://test:123456@100.36.78.99/Elements/M1.mp4
 
 
 #EXTINF:-1 tvg-name="الكاهن" tvg-logo="https://media.elcinema.com/uploads/_315x420_0be7b30f9813e0d88340e6163b0a002c9cadd0290310b1ff24d6317f7a6ccc4d.jpg",الكاهن
 #EXTGRP:Horror2021
-ftp://test:123456@100.36.78.99/Movies/M2.mp4
+ftp://test:123456@100.36.78.99/Elements/M2.mp4
