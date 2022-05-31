@@ -295,8 +295,7 @@ https://s35.moroccan-network.football/live/36zj6swweih7_FHD.m3u8
 
 #EXTINF:-1 tvg-name="Alnahar Drama" tvg-logo="http://fomny.com/Video-2/Egypt/Al-Nahar/logo3.gif",Alnahar Drama
 #EXTGRP:Alnahar
-http://192.34.153.36:7777/AlNaharDrama_HD/AlNaharDrama_High.m3u8?user=sgls540839&session=00b7319636e5c7d054ade64605c0ca69c721b1a8e1ece56f54237fcd9b93a9d4994c0d08dc622140384e97fef14771cc
-
+http://192.34.153.36:7777/AlNaharDrama_HD/AlNaharDrama_High.m3u8?user=sgls540839&session=864ff7947793be3ece98202b3dc3d72cc721b1a8e1ece56feb50e3b3e983ad20b8d26393587514ecb34ee7ed63b31e6f&hlsid=HTTP_ID_58957
 
 
 
@@ -323,8 +322,7 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Al Masriya Al Oula" tvg-logo="http://fomny.com/Video-2/Arabic/04/Egypt%20TV-one/logo.gif",Al Masriya Al Oula
 #EXTGRP:Egypt
-http://freearabic.zinamedia.net/ar/Masriya-AlOula/tracks-v1a1/mono.m3u8
-
+http://192.34.153.36:7777/AlMasriyah_HD/AlMasriyah_High.m3u8?user=sgls540839&session=cfe18eb39a605479f83dec27df7aececd344c8c39a7cb12c2ab3b26f0cf46ac6681f22835e1ef625de2a9a15d4e21705&hlsid=HTTP_ID_58957
 
 
 #EXTINF:-1 tvg-name="Nile Comedy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2021/02/Nile-Comedy200.png",Nile Comedy
